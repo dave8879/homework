@@ -1,2 +1,2 @@
-Domácí Úkoly
-Repořitář s domácími úkoly / David Manych
+**Domácí Úkoly**
+Repozitář s domácími úkoly / David Manych
